@@ -10,5 +10,6 @@ namespace DanielaMora_PrimerTaller.Models
         public bool WithCheese { get; set; }
         [Range(0.01, 9999.99)]
         public decimal Precio { get; set; }
+        //Comentario verificaciòn de Commmit
     }
 }
