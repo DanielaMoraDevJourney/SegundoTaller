@@ -12,6 +12,10 @@ using DanielaMora_PrimerTaller.Models;
         {
         }
 
+      
+        public DbSet<DanielaMora_PrimerTaller.Models.Promo> Promo { get; set; } = default!;
+
         public DbSet<DanielaMora_PrimerTaller.Models.Burger> Burger { get; set; } = default!;
-    }
+
+}
 //cambio
