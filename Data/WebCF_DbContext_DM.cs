@@ -14,3 +14,4 @@ using DanielaMora_PrimerTaller.Models;
 
         public DbSet<DanielaMora_PrimerTaller.Models.Burger> Burger { get; set; } = default!;
     }
+//cambio
